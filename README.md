@@ -1,6 +1,4 @@
-Here’s a `README.md` file for your Flask app project that explains how to work with it, including instructions on how to clone and run it using Docker.
 
-```
 # Flask Hello World with Docker
 
 This is a simple "Hello World" web application built using Flask and Docker. The Flask app displays a simple "Hello, World!" message on the homepage. This project demonstrates how to containerize a Flask application using Docker.
@@ -33,7 +31,7 @@ Before you start, make sure you have the following installed on your machine:
 
    Use the following command to clone this repository to your local machine:
 
-   ```bash
+   ```
    git clone https://github.com/<your-username>/flask-webapp.git
    ```
 
