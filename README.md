@@ -74,7 +74,7 @@ If you prefer running the Flask app inside a Docker container, follow these step
 2. **Run the Docker container:**
 
    ```
-   docker run -d -p 5000:5000 flask-hello-world
+   docker run -d -p 5050:5050 flask-hello-world
    ```
 
    This command will start the Flask application inside a Docker container and expose it on port 5000. Visit `http://localhost:5000` in your web browser.
