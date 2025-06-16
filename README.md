@@ -32,7 +32,7 @@ Before you start, make sure you have the following installed on your machine:
    Use the following command to clone this repository to your local machine:
 
    ```
-   git clone https://github.com/<your-username>/flask-webapp.git
+   git clone https://github.com/khurammurad/flask-webapp.git
    ```
 
    Navigate to the project directory:
@@ -82,7 +82,7 @@ If you prefer running the Flask app inside a Docker container, follow these step
 To clone this repository, run the following command:
 
 ```
-git clone https://github.com/<your-username>/flask-webapp.git
+git clone https://github.com/khurammurad/flask-webapp.git
 ```
 
 After cloning, navigate to the project directory:
@@ -105,11 +105,3 @@ Contributions are welcome! Please fork this repository and open a pull request w
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-### How to Use
-
-1. Replace `<your-username>` in the clone URL with your actual GitHub username.
-2. If you wish to include any additional sections like **Testing** or **Environment Setup**, you can expand the README file accordingly.
-
-Let me know if you need further adjustments or help!
